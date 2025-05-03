@@ -60,8 +60,8 @@ A Python-based automated elective allocation system that fairly and efficiently 
    ```bash
    pip install openpyxl
 
-2.	**Update file paths:
+2.	Update file paths:
   Change the input (RawDataOE1.xlsx) and output (Allot3.xlsx) paths in the script according to your system.
 
-3.	**Run the script:
+3.	Run the script:
   python OE1.py
